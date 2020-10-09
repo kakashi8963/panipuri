@@ -1,0 +1,1 @@
+mongodb+srv://mainuser:kakashi8963@cluster0.yug4n.mongodb.net/react?retryWrites=true&w=majority
